@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583679529833",
+    "project_id": "signupandloginpage"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583679529833:android:0927cb570b00ffc2",
+        "android_client_info": {
+          "package_name": "sami.example.com.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583679529833-ajq5qneau9dn8jauqgl3a1ut8mm1t5qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sami.example.com.googlelogin",
+            "certificate_hash": "9DEFDA46EDDD81CB895B6F5B09C407904FB9D07A"
+          }
+        },
+        {
+          "client_id": "583679529833-mnt312clhu1ur0rpu6gt8v0khorfei7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Gg3i8KrQBFA6kwm5r7SfnnaGj_vAmjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
